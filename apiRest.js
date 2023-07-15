@@ -23,7 +23,7 @@ function obtenerInventario() {
   const inventario = [
     { id: 1, nombre: 'Mango', stock: 10 },
     { id: 2, nombre: 'Lulo', stock: 5 },
-    { id: 3, nombre: 'Aguacate', stock: 15 },
+    { id: 3, nombre: 'Aguacate', stock: 15 }
   ];
 
   // Retornar el inventario

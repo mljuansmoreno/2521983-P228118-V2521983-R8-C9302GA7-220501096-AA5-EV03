@@ -3,6 +3,16 @@ API de Inventario de Frutos Exóticos Colombianos
 
 Esta documentación describe la API de Inventario de Frutos Exóticos Colombianos, la cual proporciona información actualizada sobre los niveles de inventario de los productos en un sitio de comercio electrónico. A continuación, se detallan los servicios proporcionados por esta API, su uso para mantener actualizada la información del inventario y cómo ayuda a evitar la venta de productos que están fuera de stock.
 
+
+
+---
+Para acceder a la información del inventario, puedes hacer una solicitud GET a la siguiente URL: `http://localhost:3000/api/inventario`. Esta API proporciona los datos actualizados sobre los productos disponibles, incluyendo el ID, nombre y stock de cada elemento. Asegúrate de utilizar la URL mencionada y realizar la solicitud adecuada para obtener los detalles del inventario.
+
+![Muestra de la API](1.jpg)
+
+
+
+
 ---
 
 Endpoint
@@ -70,4 +80,4 @@ La API de Inventario de Frutos Exóticos Colombianos ayuda a evitar la venta de 
 
 ---
 
-Este documento describe la API de Inventario de Frutos Exóticos Colombianos, sus servicios, su uso para mantener actualizada la información del inventario y cómo ayuda a evitar la venta de productos fuera de stock.
+Este documento describe la API de Inventario de Frutos Exóticos Colombianos, sus servicios, su uso para mantener actualizada la información del inventario y cómo ayuda a evitar la venta de productos fuera de stock. La respuesta al inventario se encuentra en formato JSON.
