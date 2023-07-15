@@ -8,7 +8,7 @@ Esta documentación describe la API de Inventario de Frutos Exóticos Colombiano
 ---
 Para acceder a la información del inventario, puedes hacer una solicitud GET a la siguiente URL: `http://localhost:3000/api/inventario`. Esta API proporciona los datos actualizados sobre los productos disponibles, incluyendo el ID, nombre y stock de cada elemento. Asegúrate de utilizar la URL mencionada y realizar la solicitud adecuada para obtener los detalles del inventario.
 
-![Muestra de la API](1.jpg)
+![Muestra de la API](1.png)
 
 
 
